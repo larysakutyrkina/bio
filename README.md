@@ -8,7 +8,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 
-### I’m currently working on React-Redux Shop 🪐
+### I’m currently working on React-Redux Shop 🪐 and an English Quiz 👩🏼‍🏫
 
 ## Please contact me at: 
 ### 📲 Telegram: @larseeya
