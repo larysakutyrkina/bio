@@ -1,5 +1,5 @@
 # Hello! My name is Larysa. 
-## I'm a Front-End Developer from Kyiv, UA. 👩🏾‍💻 🇺🇦 
+## I'm a Front-End (React.js) Developer from Kyiv, UA. 👩🏾‍💻 🇺🇦 
 
 ### Languages and Technologies I use are: 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript) 
