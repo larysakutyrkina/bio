@@ -12,4 +12,3 @@
 
 ## Please contact me at: 
 ### 📲 Telegram: @larseeya
-###  💻 LinkedIn: https://www.linkedin.com/in/larysa-kutyrkina/
